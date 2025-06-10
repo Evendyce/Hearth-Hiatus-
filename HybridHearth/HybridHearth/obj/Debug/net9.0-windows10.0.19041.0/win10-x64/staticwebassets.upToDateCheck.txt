@@ -1,0 +1,4 @@
+C:\Users\Donovan\source\repos\HybridHearth\HybridHearth\HybridHearth\wwwroot\index.html
+C:\Users\Donovan\source\repos\HybridHearth\HybridHearth\HybridHearth\wwwroot\app.css
+wwwroot\app.css
+wwwroot\index.html

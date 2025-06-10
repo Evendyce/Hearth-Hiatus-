@@ -1,0 +1,3 @@
+C:\Users\Donovan\source\repos\HybridHearth\HybridHearth\HybridHearth.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Donovan\source\repos\HybridHearth\HybridHearth\HybridHearth.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Donovan\source\repos\HybridHearth\HybridHearth\HybridHearth.Shared\obj\Debug\net9.0\staticwebassets.build.json
