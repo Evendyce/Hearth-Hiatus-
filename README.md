@@ -1,3 +1,16 @@
+---
+---
+
+# Hiatus
+
+---
+---
+
+This project has been put on indefinite Hiatus. This is due to my capabilities and knowledge of the various frameworks/functions that will be needed to build the project, not being satisfactory enough and need to be expanded on in order to achieve my desired outcome
+
+---
+---
+
 # Hearth
 
 HybridHearth is a sample hybrid app built with **.NET 9** using .NET MAUI and Blazor. The solution contains:
